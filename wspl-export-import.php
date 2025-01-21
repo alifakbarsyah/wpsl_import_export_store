@@ -3,7 +3,7 @@
 Plugin Name: WPSL Import Export Extension
 Description: Import and Export functionality for WP Store Locator
 Version: 1.0
-Author: Your Name
+Author: Glpz
 */
 
 // Prevent direct access to this file
