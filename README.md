@@ -1,7 +1,3 @@
-Here’s a more concise and streamlined version of your README:
-
----
-
 # WPSL Import Export Plugins
 
 ## Description
@@ -20,6 +16,7 @@ Your CSV should have these columns **in order**:
 `Store Name, Address, Address2, City, State, Zip, Country, Latitude, Longitude, Phone, Fax, Email, Website`
 
 ## Important Notes
+- **ADJUST WP STORE LOCATOR SETTINGS BEFORE INSTALLING THE PLUGINS**
 - **Remove the header row** before importing.
 - Keep the column structure as specified.
 - **Unable to export store categories yet**.
@@ -48,5 +45,3 @@ Your CSV should have these columns **in order**:
 - PHP 7.0+ (recommended)
 
 --- 
-
-This revision retains all key details while being more concise and easier to scan. Let me know if you'd like further tweaks!
