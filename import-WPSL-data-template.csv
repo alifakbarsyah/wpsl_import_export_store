@@ -1,0 +1,17 @@
+Store Name,Address,Address2,City,State,Zip,Country,Latitude,Longitude,Phone,Fax,Email,Website
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Note : 
+1. Delete column header before export data
+2. Column structure as written above
+3. Unable to export store categories yet
+4. No comma allowed on data since export file use comma as data separator
+5. Kindly check data before import, reducing error
+",,,,,,,,,,,,
