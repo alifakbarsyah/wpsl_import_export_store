@@ -2,7 +2,7 @@ Here’s a more concise and streamlined version of your README:
 
 ---
 
-# WPSL Import Export Extension
+# WPSL Import Export Plugins
 
 ## Description
 Easily manage your WP Store Locator (WPSL) store locations with this plugin, featuring CSV import/export functionality, including support for store categories.
